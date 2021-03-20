@@ -1,0 +1,209 @@
+@media screen and (max-width:1080px) {
+    html {
+        font-size: 93.75%;
+    }
+
+    main {
+        max-height: 70rem;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    main {
+        max-height: 58rem;
+    }
+}
+
+@media screen and (max-width:720px) {
+    html {
+        font-size: 87.5%;
+    }
+
+    main {
+        height: 115vh;
+        max-height: 62rem;
+    }
+
+    .cogratulation {
+        margin-top: 15rem;
+    }
+
+    .video {
+        width: 85%;
+        height: 14rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    main {
+        max-height: 52rem;
+    }
+    
+    .cogratulation {
+        font-size: 1.3rem;
+        margin-top: 7rem;
+    }
+
+    .headmain > p {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width:490px) {
+    html {
+        font-size: 82%;
+    }
+
+    .video{
+        margin-bottom: 1rem;
+    }
+
+    .button {
+        margin-top: 0;
+    }
+
+    .top p {
+        font-size: 0.9rem;
+    }
+
+    .headmain img {
+        width: 22rem;
+        margin-top: 7rem;
+    }
+
+    .verification{
+        margin-bottom: 1.6rem;
+        align-items: end;
+        margin-top: -0.4rem;
+    }
+
+    .icon img {
+        width: 1.15rem;
+        margin-right: 0.8rem;
+    }
+
+    .verification p {
+        font-size: 0.8rem;
+    }
+
+    .button img {
+        width: 1rem;
+        margin-right: 0.8rem;
+    }
+
+    .button p {
+        font-size: 0.8rem;
+    }
+
+    .security{
+        padding-bottom: 3rem;
+    }
+
+    .chat {
+        width: 95%;
+    }
+
+    .backblackfooter {
+        display: block;
+    }
+
+    .warning {
+        margin: auto;
+    }
+
+    .warning .textpirat {
+        text-align: center;
+    }
+
+    .warning .textfooter {
+        text-align: center;
+        width: 100%;
+    }
+
+    .rodape {
+        margin: 2rem auto;
+        width: 100%;
+    }
+}  
+
+@media screen and (max-width:415px) {
+    main {
+        max-height: 63rem;
+    }
+}
+
+@media screen and (max-width:376px) {
+    main {
+        height: 100vh;
+        max-height: 62rem;
+    }
+}
+
+@media screen and (max-width:360px) {
+    main {
+        height: 110vh;
+        max-height: 49rem;
+    }
+    
+    .powersecret p {
+        font-size: 1.3rem;
+    }
+    
+    .top p {
+        font-size: 0.7rem;
+    }
+
+    .headmain img {
+        width: 19rem;
+    }
+
+    .headmain > p {
+        font-size: 1.2rem;
+        padding-bottom: 1.5rem;
+    }
+
+    .icon img {
+        width: 1rem;
+        margin-right: 0.8rem;
+    }
+
+    .verification p {
+        font-size: 0.6rem;
+    }
+
+    .button img {
+        width: 0.6rem;
+        margin-right: 0.8rem;
+    }
+
+    .button p {
+        font-size: 0.6rem;
+    }
+
+    .security img {
+        width: 12rem;
+    }
+}
+
+@media screen and (max-width:300px) {
+    main {
+        max-height: 50rem;
+    }
+
+    .powersecret p {
+        font-size: 1.2rem;
+    }
+    .headmain > p {
+        font-size: 1rem;
+        padding-bottom: 0;
+    }
+
+    .video {
+        height: 12rem;
+        margin-bottom: 0;
+    }
+
+    .verification p {
+        font-size: 0.5rem;
+    }
+}
